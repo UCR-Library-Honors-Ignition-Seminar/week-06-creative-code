@@ -13,16 +13,14 @@
 
 ---
 
-## Background: Code as a Design Material
+## Introduction
 
-Most people think of code as a means to an end — a way to make software do something useful. Creative coding flips this: **the code itself is the design material.** A loop that draws 200 circles is a compositional decision. A random number is an aesthetic choice. Writing `random(width)` is the same kind of move as scattering seeds on paper.
+This week you will make two things: a visual sketch that runs in the browser, and a tiny pixel-art game. Neither requires prior coding experience — just a willingness to change a number and see what happens.
 
-This week you will work with two tools that sit at opposite ends of a spectrum:
+- **p5.js** is a JavaScript library for drawing on a canvas. You write a few lines, hit play, and something appears. Change a number — the shape moves. Add `random()` — it changes every time.
+- **Bitsy** is a miniature game editor. You draw rooms pixel by pixel, write dialogue, and connect spaces. Two colors per room. Everything fits in a grid.
 
-- **p5.js** gives you a blank canvas and nearly unlimited possibility — you decide what exists and what moves
-- **Bitsy** gives you almost nothing — a tiny pixel grid, two colors, basic movement — and that scarcity becomes the work
-
-The question both tools ask: *what do you make when the tool decides some things for you?*
+Both tools have limits. Those limits are not obstacles — they are the assignment.
 
 ---
 
