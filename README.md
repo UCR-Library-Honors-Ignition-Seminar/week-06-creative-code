@@ -20,7 +20,6 @@ This week you will make two things: a visual sketch that runs in the browser, an
 - **p5.js** is a JavaScript library for drawing on a canvas. You write a few lines, hit play, and something appears. Change a number — the shape moves. Add `random()` — it changes every time.
 - **Bitsy** is a miniature game editor. You draw rooms pixel by pixel, write dialogue, and connect spaces. Two colors per room. Everything fits in a grid.
 
-Both tools have limits. Those limits are not obstacles — they are the assignment.
 
 ---
 
