@@ -31,7 +31,7 @@ Before writing code, look at what people make with p5.js:
 
 - [Zach Lieberman's daily sketches](https://www.instagram.com/zach.lieberman/) — visual experiments, posted daily for years
 - [Generative Artistry tutorials](https://generativeartistry.com/) — step-by-step recreations of famous generative artworks; see how simple rules produce complex images
-- [p5.js showcase](https://p5js.org/showcase/) — community examples ranging from data art to interactive poetry
+- [p5.js showcase](https://p5js.org/examples/) — community examples ranging from data art to interactive poetry
 
 **As you look:** What rule might produce that image? How many lines of code do you think it took?
 
