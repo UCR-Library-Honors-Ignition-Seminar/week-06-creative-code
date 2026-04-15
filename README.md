@@ -1,6 +1,6 @@
 # Week 6: Creative Code & Games
 
-**Instructor:** Jing | **Weeks 5–8 format:** Critical/Creative Reflection
+**Instructor:** Jing 
 
 ---
 
