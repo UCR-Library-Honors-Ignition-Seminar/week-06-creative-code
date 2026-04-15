@@ -39,12 +39,11 @@ Write a **~300-word reflection** using the [reflection template](reflection-temp
 
 ## Submission Instructions
 
-1. Create a `week-06/` folder in your GitHub Classroom repo
-2. Add your project:
+1. Add your project:
    - p5.js: create `links.md` with your Web Editor share link
    - Bitsy: upload the exported `.html` file
-3. Create `week-06/reflection.md`
-4. Commit and submit repo URL on Canvas
+2. Create `reflection.md`
+3. Commit and submit repo URL on Canvas
 
 ---
 
