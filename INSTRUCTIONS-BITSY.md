@@ -126,7 +126,7 @@ When you are ready to submit:
 1. Click **"game"** panel in the top toolbar
 2. Click **"Download game"**
 3. A `.html` file saves to your computer
-4. Upload it to your GitHub repo — drag and drop in the web interface
+4. Upload it to your GitHub repo when you submit your assignment
 
 The `.html` file runs in any browser. Your instructor opens it to play your game.
 
