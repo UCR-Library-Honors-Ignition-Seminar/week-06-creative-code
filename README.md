@@ -126,7 +126,7 @@ See **[INCLASS-ACTIVITY-P5.md](INCLASS-ACTIVITY-P5.md)** for starter code and hi
 
 Play one or two Bitsy games before building your own:
 
-- [*Endless Scroll*](https://haraiva.itch.io/endless-scroll) by cecile richard — a Bitsy game about social media, attention, and scrolling; notice how a game mechanic becomes a critique
+- [*Endless Scroll*](https://haraiva.itch.io/endless-scroll) by Cecile Richard — it's a game about high school memories, growth and being online late at night
 - [*Hawk & Puma*](https://nieblagames.itch.io/hawk-and-puma) by Niebla Games — a short game about identity and belonging
 - Browse the [Bitsy Essay Jam entries](https://itch.io/jam/the-bitsy-essay-jam/entries) — Bitsy works used as essays and arguments, not just games
 - Browse [Bitsy games on itch.io](https://itch.io/games/made-with-bitsy) — hundreds of examples; sort by Top Rated
