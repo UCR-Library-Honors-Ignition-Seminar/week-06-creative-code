@@ -139,25 +139,25 @@ Open the editor at [bitsy.org](https://bitsy.org) — no account needed.
 
 | Element | What it is | How to add |
 |---------|-----------|------------|
-| **Avatar** | The character the player controls | Edit > Avatar |
-| **Rooms** | Spaces the player moves through | Room panel > + |
-| **Tiles** | Pixels that make up walls and floors | Tile panel > draw |
-| **Sprites** | Characters/objects with dialogue | Sprite panel > + |
-| **Items** | Things the player can pick up | Item panel > + |
-| **Exits** | Doors between rooms | Room > Add exit |
-| **Endings** | Text shown when player touches an ending tile | Room > Add ending |
+| **Avatar** | The avatar is who you control when playing the game. | Paint panel > Avatar |
+| **Rooms** | A 'room' in Bitsy is where the action takes place! Rooms are where your avatar walks around and talks to others.| Room panel > + |
+| **Tiles** | Tiles are used to decorate your rooms. | Paint panel > Tiles|
+| **Sprites** | Sprites are people or objects in your game that you can talk to.| Paint panel > Sprites |
+| **Items** | Items are things that you can pick up. | Paint panel > Items |
+| **Exits** | A connection between two locations that can be accessed from either direction | Room panel > Add exit |
+| **Endings** | A location that triggers the end of the Bitsy game. | Room panel > Add ending |
 
 **Basic workflow:**
 1. Draw your avatar (8×8 pixel grid)
 2. Draw your first room — tiles for walls, floor color
-3. Add a sprite with dialogue (double-click sprite to add text)
+3. Add a sprite with dialogue
 4. Add an exit to a second room
 5. Repeat for additional rooms
 6. Add an ending in the final room
 
 ### In-class activity
 
-Build a Bitsy game with 3 rooms and a clear sense of journey — beginning, middle, somewhere to arrive. The story can be abstract: a mood, a memory, a question. Each room's pixel arrangement and dialogue is a design decision.
+Build a Bitsy game with 2 rooms and a clear sense of journey — beginning, middle, somewhere to arrive. The story can be abstract: a mood, a memory, a question. Each room's pixel arrangement and dialogue is a design decision. Click on the Question Mark icon if you are stuck!
 
 **Export:** Game > Download game → saves as `.html` — runs in any browser.
 
