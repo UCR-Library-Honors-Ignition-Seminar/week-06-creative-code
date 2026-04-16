@@ -169,8 +169,7 @@ Build a Bitsy game with 3 rooms and a clear sense of journey — beginning, midd
 - [p5.js Web Editor](https://editor.p5js.org) — browser-based, no install
 - [p5.js Reference](https://p5js.org/reference/) — every function with examples
 - [The Coding Train](https://thecodingtrain.com/tracks/code-programming-with-p5-js) — Daniel Shiffman's p5.js video tutorials; clear, enthusiastic, very beginner-friendly
-- [Bitsy Editor](https://bitsy.org) — browser-based, no install; click "Make a bitsy game"
-- [Bitsy Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki) — community documentation
+- [Bitsy Editor](https://bitsy.org) — browser-based, no install; click "Make"
 
 ### Examples to Explore
 - [Generative Artistry](https://generativeartistry.com/) — step-by-step generative art tutorials with p5.js
@@ -181,9 +180,8 @@ Build a Bitsy game with 3 rooms and a clear sense of journey — beginning, midd
 - [Zach Lieberman sketches](https://www.instagram.com/zach.lieberman/) — daily creative coding practice
 
 ### Further Reading
-- Sabinne Harrer, "Radical Jamming" — on game jams as spaces for experimental, political, and personal game-making outside commercial structures
-- Emily Johnson & Anastasia Salter, *Critical Making in the Age of AI* — on making as a form of critical thinking; the "Game" chapter is directly relevant
-- [*10 PRINT CHR$*](https://10print.org/) — a book about a single line of BASIC code and what it reveals about creativity, randomness, and culture (free PDF)
+- Emily Johnson & Anastasia Salter, *Critical Making in the Age of AI* — on making as a form of critical thinking; [the "Game" chapter](https://www.fulcrum.org/concern/monographs/zc77ss95p) is directly relevant
+
 
 ---
 
