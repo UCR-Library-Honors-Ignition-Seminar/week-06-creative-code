@@ -46,7 +46,7 @@ Build a complete game using the [Bitsy editor](https://make.bitsy.app).
 - A title (set in Game > Title)
 
 **To submit:**
-1. Click **Game > Download game** → a `.html` file downloads
+1. Click **Game > Save game** → a `.html` file downloads
 2. Upload the `.html` file to your GitHub repo
 
 **Step-by-step help:** [INSTRUCTIONS-BITSY.md](INSTRUCTIONS-BITSY.md)
