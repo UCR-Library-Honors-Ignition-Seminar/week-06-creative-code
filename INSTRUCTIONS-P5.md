@@ -8,7 +8,7 @@
 
 p5.js is a JavaScript library for creative coding. You write code in a browser-based editor and it draws shapes, colors, text, and animations on a canvas. No installation, no setup — just open the editor and start writing.
 
-Everything you make can be shared with a link or exported as a file.
+Everything you make can be shared with a link.
 
 ---
 
@@ -179,16 +179,10 @@ function draw() {
 
 ## Step 10: Save and Share
 
-**To share a link:**
-1. Create a free account at [editor.p5js.org](https://editor.p5js.org) (optional but lets you save)
+1. Create a free account at [editor.p5js.org](https://editor.p5js.org) — required to save your work
 2. Click **File > Save**
 3. Click **File > Share** → copy the "Sketch" link
-4. Save this link in a `links.md` file in your GitHub repo
-
-**To export as a file:**
-1. Click **File > Download**
-2. A `.zip` file downloads containing your sketch as HTML + JS files
-3. Unzip and upload the files to your GitHub repo
+4. In your GitHub repo: click **"Add file"** → **"Create new file"** → name it `links.md` → paste your link → click **"Commit changes"**
 
 ---
 
