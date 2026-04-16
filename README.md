@@ -179,8 +179,8 @@ Build a Bitsy game with 2 rooms and a clear sense of journey — beginning, midd
 - [OpenProcessing](https://openprocessing.org) — p5.js community gallery with forkable code
 - [Zach Lieberman sketches](https://www.instagram.com/zach.lieberman/) — daily creative coding practice
 
-### Further Reading
-- Emily Johnson & Anastasia Salter, *Critical Making in the Age of AI* — on making as a form of critical thinking; [the "Game" chapter](https://www.fulcrum.org/concern/monographs/zc77ss95p) is directly relevant
+### Further Reading (Optional)
+- Emily Johnson & Anastasia Salter, *Critical Making in the Age of AI* — on making as a form of critical thinking; read [the "Game" chapter](https://www.fulcrum.org/concern/monographs/zc77ss95p) 
 
 
 ---
