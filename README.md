@@ -29,6 +29,7 @@ This week you will make two things: a visual sketch that runs in the browser, an
 
 Before writing code, look at what people make with p5.js:
 
+- [OpenProcessing](https://openprocessing.org) — large community gallery; click any sketch to see the code, then fork it to edit your own copy
 - [Zach Lieberman's daily sketches](https://www.instagram.com/zach.lieberman/) — visual experiments, posted daily for years
 - [Generative Artistry tutorials](https://generativeartistry.com/) — step-by-step recreations of famous generative artworks; see how simple rules produce complex images
 - [p5.js showcase](https://p5js.org/examples/) — community examples ranging from data art to interactive poetry
@@ -109,7 +110,13 @@ function mousePressed() {
 
 ### In-class activity
 
-Build a sketch with a clear concept — not just "random shapes," but something you could describe in one sentence: *"a sky that changes mood," "a portrait made of words," "a clock that lies."* Use the starter as a base or start from scratch.
+Build a sketch with a clear concept — something you could describe in one sentence. Choose one of the prompts below or invent your own:
+
+- *A sky that changes mood* — background color shifts based on mouse position or over time
+- *A portrait made of words* — words placed at specific positions to suggest a face or figure
+- *A window that shows different things at different times of day* — use `hour()` to change what appears
+
+See **[INCLASS-ACTIVITY-P5.md](INCLASS-ACTIVITY-P5.md)** for starter code and hints for each prompt.
 
 ---
 
