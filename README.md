@@ -126,9 +126,9 @@ See **[INCLASS-ACTIVITY-P5.md](INCLASS-ACTIVITY-P5.md)** for starter code and hi
 
 Play one or two Bitsy games before building your own:
 
-- [*Endless Scroll*](https://cerice.itch.io/endless-scroll) by cecile richard — a Bitsy game about social media, attention, and scrolling; notice how a game mechanic becomes a critique
-- [*A Fortune-Telling Machine*](https://witchpunx.itch.io/fortune) — a quiet piece about prediction and uncertainty
-- Browse the [Bitsy Essay Jam](https://itch.io/jam/bitsy-essay-jam) — a collection of Bitsy works used as essays and arguments, not just games
+- [*Endless Scroll*](https://haraiva.itch.io/endless-scroll) by cecile richard — a Bitsy game about social media, attention, and scrolling; notice how a game mechanic becomes a critique
+- [*Hawk & Puma*](https://nieblagames.itch.io/hawk-and-puma) by Niebla Games — a short game about identity and belonging
+- Browse the [Bitsy Essay Jam entries](https://itch.io/jam/the-bitsy-essay-jam/entries) — Bitsy works used as essays and arguments, not just games
 - Browse [Bitsy games on itch.io](https://itch.io/games/made-with-bitsy) — hundreds of examples; sort by Top Rated
 
 **As you play:** How does the maker use the pixel grid? What can't they show — and how do they work around it? Where does the story live — in the visuals or the dialogue? Could this have been a written essay instead — and what would be lost?
@@ -176,12 +176,11 @@ Build a Bitsy game with 3 rooms and a clear sense of journey — beginning, midd
 - [Generative Artistry](https://generativeartistry.com/) — step-by-step generative art tutorials with p5.js
 - [p5.js Showcase](https://p5js.org/showcase/) — community work
 - [Bitsy games on itch.io](https://itch.io/games/made-with-bitsy) — hundreds of examples
-- [Bitsy Essay Jam](https://itch.io/jam/bitsy-essay-jam) — Bitsy as essay and argument
+- [Bitsy Essay Jam entries](https://itch.io/jam/the-bitsy-essay-jam/entries) — Bitsy as essay and argument
 - [OpenProcessing](https://openprocessing.org) — p5.js community gallery with forkable code
 - [Zach Lieberman sketches](https://www.instagram.com/zach.lieberman/) — daily creative coding practice
 
 ### Further Reading
-- Anna Anthropy, *Rise of the Videogame Zinesters* — on personal games and small tools as a creative practice; directly relevant to Bitsy and the "anyone can make a game" ethos
 - Sabinne Harrer, "Radical Jamming" — on game jams as spaces for experimental, political, and personal game-making outside commercial structures
 - Emily Johnson & Anastasia Salter, *Critical Making in the Age of AI* — on making as a form of critical thinking; the "Game" chapter is directly relevant
 - [*10 PRINT CHR$*](https://10print.org/) — a book about a single line of BASIC code and what it reveals about creativity, randomness, and culture (free PDF)
