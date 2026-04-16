@@ -14,7 +14,7 @@ The constraints are the point: with only two colors per room and very basic move
 
 ## Step 1: Open the Editor
 
-Go to [make.bitsy.app](https://make.bitsy.app).
+Go to [make.bitsy.org](https://make.bitsy.org).
 
 You will see the editor with a default room already created. The panels on the right control your tools.
 
