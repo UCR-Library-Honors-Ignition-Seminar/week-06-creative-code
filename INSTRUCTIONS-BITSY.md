@@ -1,6 +1,6 @@
 # Step-by-Step: Building a Bitsy Game
 
-**Time needed:** 45–60 minutes | **No downloads required**
+**Time needed:** 45–60 minutes | **No downloads required** | **Chrome browser can be finicky, try Firefox if any features in Bitsy are not working**
 
 ---
 
@@ -34,7 +34,7 @@ Your avatar is the character the player controls.
 
 Each room has two colors: a **background** and a **tile** color.
 
-1. Click the color swatches at the top of the room panel
+1. Pick colors in the Color panel
 2. Pick colors that feel right for your first space — dark/light contrast works best
 
 ---
@@ -43,7 +43,7 @@ Each room has two colors: a **background** and a **tile** color.
 
 Tiles are the building blocks of your room — they create walls, floors, and visual texture.
 
-1. Click **"tile"** in the toolbar
+1. Click **"tile"** in the Paint panel
 2. Draw a pattern on the 8×8 tile grid
 3. In the room view (the large grid), click cells to place your tile
 4. Your avatar cannot walk through tiles — use them to create walls and paths
@@ -56,7 +56,7 @@ Tiles are the building blocks of your room — they create walls, floors, and vi
 
 Sprites are characters or objects in your room. They block movement and can speak when the player walks into them.
 
-1. Click **"sprite"** in the toolbar
+1. Click **"sprite"** in the Paint panel
 2. Draw your sprite on the 8×8 grid
 3. Click the **dialog** tab — type what the sprite says when the player touches it
 4. In the room view, click a cell to place the sprite
@@ -71,7 +71,7 @@ Sprites are characters or objects in your room. They block movement and can spea
 ## Step 6: Add More Rooms
 
 1. In the **room panel** (top right), click **"+"** to add a new room
-2. Each room can have different colors — change them in the palette
+2. Each room can have different colors — change them in the color palette
 3. Draw new tiles and sprites in each room
 
 ---
@@ -110,7 +110,7 @@ Endings are a natural way to close a narrative — a final line of dialogue, a p
 
 ## Step 10: Play-Test
 
-Click **"play"** (the triangle button in the top bar) to run your game in the editor. Walk through every room and every exit to make sure nothing is broken.
+Click **"play"** (top right) to run your game in the editor. Walk through every room and every exit to make sure nothing is broken.
 
 Common issues to check:
 - Can the avatar reach all exits without getting stuck in tiles?
@@ -123,7 +123,7 @@ Common issues to check:
 
 When you are ready to submit:
 
-1. Click **"game"** in the top toolbar
+1. Click **"game"** panel in the top toolbar
 2. Click **"Download game"**
 3. A `.html` file saves to your computer
 4. Upload it to your GitHub repo — drag and drop in the web interface
@@ -135,7 +135,7 @@ The `.html` file runs in any browser. Your instructor opens it to play your game
 ## Tips
 
 - **Two colors only** — use the contrast intentionally. Dark rooms feel different from light ones.
-- **Dialogue carries the story.** You cannot add sound or complex animation — words do the work.
+- **Try to make and add some tunes.** Bitsy can help you make tunes too.
 - **Small is fine.** Three rooms with clear intention is better than eight rooms with nothing to say.
 - **The pixel grid is expressive.** A sprite does not need to look realistic to communicate — a shape, a silhouette, an abstract form all work.
-- **Stuck?** The [Bitsy Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki) has documentation for every feature. The itch.io community is also very active and helpful.
+- **Stuck?** Click on the Question Mark icon to get more information on different features.
