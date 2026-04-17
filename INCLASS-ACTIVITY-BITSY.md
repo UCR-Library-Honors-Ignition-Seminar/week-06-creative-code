@@ -47,9 +47,9 @@ Your goal: make something with **2 rooms** that conveys **one feeling, memory, o
 
 ## Part 3: Discussion (~15 min)
 
-If you would like to share your game with the class, you are welcome to — just play it on the projector, no explanation needed first. Sharing is optional.
+If you would like to share your game with the class, you are welcome to — just play it on the projector. Sharing is optional.
 
-Whether or not you share, discuss as a class:
+Whether or not you share, discuss in groups and share it with the class on:
 
 - What was the hardest design decision you made? Not the most technically difficult — the most *meaningful* one.
 - Did the pixel grid or the two-color limit push your idea in a direction you didn't expect?
