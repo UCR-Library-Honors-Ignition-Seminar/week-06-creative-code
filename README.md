@@ -161,8 +161,6 @@ Open the editor at [bitsy.org](https://bitsy.org) — no account needed.
 
 Build a Bitsy game with 2 rooms and a clear sense of journey — beginning, middle, somewhere to arrive. The story can be abstract: a mood, a memory, a question. Each room's pixel arrangement and dialogue is a design decision. Click on the Question Mark icon if you are stuck!
 
-**Export:** Game > Download game → saves as `.html` — runs in any browser.
-
 ---
 
 ## Resources
