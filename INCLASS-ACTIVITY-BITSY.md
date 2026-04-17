@@ -45,14 +45,15 @@ Your goal: make something with **2 rooms** that conveys **one feeling, memory, o
 
 ---
 
-## Part 3: Share and Discuss (~15 min)
+## Part 3: Discussion (~15 min)
 
-Two or three volunteers share their screen and walk their game for the class — just play it, no explanation needed first.
+If you would like to share your game with the class, you are welcome to — just play it on the projector, no explanation needed first. Sharing is optional.
 
-After each one, the class responds:
-- What did you understand from the two rooms — what changed?
-- Was there a moment where the constraint (pixel grid, limited dialogue) *became* the expression rather than a limitation?
-- What would you add if you had more time — and would adding it make it better or just different?
+Whether or not you share, discuss as a class:
 
-**Closing question for everyone:**
-Bitsy games are often described as "small worlds." What makes a world feel complete even when it is tiny? Is it about how much is in it, or about how intentional each element is?
+- What was the hardest design decision you made? Not the most technically difficult — the most *meaningful* one.
+- Did the pixel grid or the two-color limit push your idea in a direction you didn't expect?
+- What did you want to express that the tool wouldn't let you — and did you find a workaround, or did you change the idea?
+
+**Closing question:**
+Bitsy games are often described as "small worlds." What makes a world feel complete even when it is tiny — is it how much is in it, or how intentional each element is?
