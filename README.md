@@ -122,6 +122,8 @@ See **[INCLASS-ACTIVITY-P5.md](INCLASS-ACTIVITY-P5.md)** for starter code and hi
 
 ## Session 2 (Day 2): Bitsy — Space as Narrative
 
+> **In-class activity:** [INCLASS-ACTIVITY-BITSY.md](INCLASS-ACTIVITY-BITSY.md)
+
 ### Experience first
 
 Play one or two Bitsy games before building your own:
