@@ -34,5 +34,18 @@
 
 ---
 
-> **Total target: ~300 words across all sections.**
-> You are encouraged to use AI tools (ChatGPT, Claude) to help **format** this Markdown — just make sure the ideas and critical thinking are your own.
+## 5. AI Use
+
+*In 1–2 sentences: Did you use any AI tools this week? If so, how?*
+
+> **Examples:**
+> - "Used Claude to fix a syntax error in my p5.js sketch."
+> - "Asked ChatGPT to explain what the Bitsy dialog syntax looks like."
+> - "Used Claude to format this reflection as Markdown."
+> - "Did not use AI this week."
+
+This section does not affect your grade — it's a documentation habit.
+
+---
+
+> **Total target: ~300 words across sections 1–4.**
