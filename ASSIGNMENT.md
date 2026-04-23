@@ -37,7 +37,7 @@ Create a generative sketch using the [p5.js Web Editor](https://editor.p5js.org)
 
 ### Option B: Bitsy Game
 
-Build a complete game using the [Bitsy editor](https://make.bitsy.app).
+Build a complete game using the [Bitsy editor](https://bitsy.org).
 
 **Requirements:**
 - At least **3 rooms** connected by exits
@@ -65,12 +65,19 @@ Think about: what the tool made easy and what it made impossible; a specific dec
 
 ---
 
-## Submission
+## Submission Checklist
 
-1. Add your project file(s) — `links.md` for p5.js, `.html` file for Bitsy
-2. Create `reflection.md` using the reflection template
-3. Commit your changes with a short message describing what you added
-4. Submit your repo URL on Canvas
+Before submitting, confirm your repo contains:
+
+**If you chose Option A (p5.js):**
+- [ ] `links.md` with your p5.js sketch share link
+- [ ] `reflection.md` with all 4 sections filled in
+
+**If you chose Option B (Bitsy):**
+- [ ] Your exported `.html` game file
+- [ ] `reflection.md` with all 4 sections filled in
+
+Then paste your GitHub repo URL into the Canvas assignment and submit.
 
 ---
 
