@@ -2,7 +2,7 @@
 
 **Instructor:** Jing 
 
-**Slides:** [**View the decks**](https://ucr-library-honors-ignition-seminar.github.io/week-06-creative-code/) · [source](slides/)
+**Slides:** [View the decks](https://ucr-library-honors-ignition-seminar.github.io/week-06-creative-code/)
 
 ---
 
