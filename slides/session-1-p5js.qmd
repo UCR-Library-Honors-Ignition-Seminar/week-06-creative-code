@@ -1,0 +1,240 @@
+---
+title: "Creative Code & Games"
+subtitle: "Session 1 — Generative Visuals with p5.js"
+---
+
+## Opening question {.center}
+
+You'll see a piece of generative art in a moment.
+
+. . .
+
+Before you do: **how many lines of code do you think made it?**
+
+. . .
+
+::: {.callout-box}
+Most answers are 10× too high. Simple rules, run fast, look complex.
+:::
+
+## Where we've been {.smaller}
+
+Last week: you wrote rules that generated **text** — branches, grammars.
+
+. . .
+
+This week: rules that generate **images** (today) and **spaces you walk through** (Thursday).
+
+. . .
+
+Same craft. The output is now pixels.
+
+## What p5.js is
+
+A JavaScript library for drawing on a canvas.
+
+. . .
+
+- Write code → hit **▶** → see it
+- Change a number → a shape moves
+- Add `random()` → it's different every frame
+
+. . .
+
+No setup. No account needed. <editor.p5js.org>
+
+## Today {.smaller}
+
+1. **Explore** existing p5.js work — 12 min
+2. **Discuss** the rule behind the complexity — 8 min
+3. **Run & tweak** a starter sketch — 12 min
+4. **Build** one sketch from a single idea — 25 min
+5. **Share screens** — 8 min
+6. **Debrief** + bridge to Bitsy — 15 min
+
+# Experience first {background-color="#003da5"}
+
+Individual · 12 minutes
+
+## Explore
+
+Open 2–3 and just look:
+
+- **OpenProcessing** — <openprocessing.org> *(click any sketch → "view code")*
+- **Generative Artistry** — <generativeartistry.com> *(rules → images, step by step)*
+- **p5.js Examples** — <p5js.org/examples>
+- **Zach Lieberman** — <instagram.com/zach.lieberman> *(years of daily sketches)*
+
+## While you look, notice
+
+- What **one rule** seems to generate each image?
+- What's repeated? What's randomized?
+- Your honest guess: **how many lines of code?**
+
+. . .
+
+*Pick one you'd want to make.*
+
+## Discuss — pair → class
+
+*Pairs 4 min · class 4 min*
+
+1. Describe one sketch's rule **in a single sentence**.
+2. Where does **randomness** make it feel alive — and where would it just look like noise?
+3. What's doing the work: the code, or the *choice* of what to randomize?
+
+## Transition {.center}
+
+You've been reading these from the outside.
+
+. . .
+
+Now run one and start turning the knobs.
+
+## How a sketch is built
+
+```javascript
+function setup() {
+  // runs ONCE at the start
+  createCanvas(400, 400);
+}
+
+function draw() {
+  // runs 60 times per second, forever
+  background(220);
+  circle(200, 200, 50);
+}
+```
+
+`setup` builds the stage. `draw` is the loop that repaints every frame.
+
+## The coordinate system
+
+- `(0, 0)` is the **top-left** corner
+- `x` increases to the **right**
+- `y` increases **downward** *(not up — this trips everyone up once)*
+
+. . .
+
+`circle(200, 200, 50)` → center of a 400×400 canvas, 50 wide.
+
+## Draw with these
+
+| Function | Does |
+|---|---|
+| `createCanvas(w, h)` | set canvas size |
+| `background(r, g, b)` | fill the whole canvas |
+| `fill(...)` / `noFill()` | shape fill color |
+| `stroke(...)` / `noStroke()` | outline color |
+| `circle` · `rect` · `line` | draw shapes |
+
+## Text, chance, input
+
+| Function | Does |
+|---|---|
+| `text("hi", x, y)` | draw words |
+| `random(min, max)` | a new number every call |
+| `mouseX` · `mouseY` | cursor position |
+| `mousePressed()` | runs on click |
+
+## The draw loop
+
+`draw()` repaints 60×/second — put `random()` inside it and the sketch **changes every frame**.
+
+. . .
+
+`background()` at the top of `draw()` → clean slate each frame.
+**Remove** it → shapes pile up into trails.
+
+. . .
+
+One line: the difference between animation and drawing.
+
+## Exercise — run & tweak {background-color="#ffb81c"}
+
+*Individual · 12 min*
+
+Paste the **Visual Poem Generator** (`INCLASS-ACTIVITY-P5.md`) into <editor.p5js.org>. Run it. Click the canvas.
+
+Change **one thing at a time:** the `words`, the `colors`, `textSize`, or swap `text()` for `circle()`.
+
+*Breaking it is fine — undo exists.*
+
+## One more tool — `map()`
+
+`map()` converts one range into another.
+
+```javascript
+let r = map(mouseX, 0, width, 0, 255);
+background(r, 100, 150);
+```
+
+"As the mouse goes left→right (0→width), red goes 0→255."
+
+. . .
+
+This is how input becomes visual change.
+
+## Build — one sketch, one idea {background-color="#ffb81c"}
+
+*Individual · 25 min · pick ONE*
+
+- **A sky that changes mood** — `background` follows `mouseX` or time; add a sun
+- **A portrait made of words** — words as eyes / nose / mouth; click to regenerate
+- **A window by time of day** — `hour()` picks morning / afternoon / evening / night
+
+Starters for each: **`INCLASS-ACTIVITY-P5.md`**
+
+## Share screens
+
+*8 min*
+
+Show your sketch. In one sentence: **what is the idea?**
+
+Audience: name the *rule* you think is running underneath.
+
+## Debrief — group
+
+- What did changing **one number** do to the *meaning* of your sketch?
+- Where's the line between what **you** made and what `random()` made?
+- Did coding it feel more like writing, drawing, or gardening?
+
+## Zoom out — concept beats complexity
+
+The assignment asks for an idea you can say **in one sentence**.
+
+. . .
+
+A sketch with 6 shapes and a clear concept beats 200 lines of pretty noise.
+
+. . .
+
+Constraint forces the concept to the surface.
+
+## Bridge to Session 2 — Bitsy
+
+Today: rules for a **canvas** — you paint with code.
+
+. . .
+
+Thursday: rules for a **space** — an 8×8 pixel world someone walks through, two colors per room, no sound.
+
+. . .
+
+The tighter the box, the louder every choice.
+
+## Before you go
+
+**Exit ticket** — one sentence:
+
+> What rule is running underneath the sketch you built?
+
+. . .
+
+**Assignment preview:** Option A — a p5.js sketch with a one-sentence concept and 3+ new functions. Full details Thursday.
+
+# Thank you {background-color="#003da5"}
+
+**Jing Han** · Digital Scholarship Librarian · UCR eScholarship Liaison
+
+<jingh@ucr.edu>

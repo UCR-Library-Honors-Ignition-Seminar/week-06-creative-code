@@ -1,0 +1,199 @@
+---
+title: "Creative Code & Games"
+subtitle: "Session 2 — Space as Narrative with Bitsy"
+---
+
+## Opening question {.center}
+
+Two colors. One 8×8 grid. No sound.
+
+. . .
+
+What can you actually *say* with that?
+
+. . .
+
+::: {.callout-box}
+Today's claim: the constraints aren't in the way of the meaning — they **are** the medium.
+:::
+
+## Where meaning lives in a game {.smaller}
+
+Three places a Bitsy game can carry its story:
+
+- **Visuals** — what the room looks like
+- **Movement** — how far, how slow, what's blocked
+- **Dialogue** — what sprites say when you bump them
+
+. . .
+
+Good Bitsy games know which one is doing the work.
+
+## Today {.smaller}
+
+1. **Play** an existing Bitsy game — 15 min
+2. **Discuss** constraints & where the meaning sits — 15 min
+3. **Build** a 2-room journey — 25 min
+4. **Playtest swap** — 10 min
+5. **Debrief** in groups → class — 15 min
+6. **Synthesis** + bridge to Week 7 — 10 min
+
+# Experience first {background-color="#003da5"}
+
+Individual · 15 minutes
+
+## Play one
+
+Play to an ending:
+
+- ***Endless Scroll*** — Cecile Richard — <haraiva.itch.io/endless-scroll> *(late-night internet, growing up)*
+- ***Hawk & Puma*** — Nico Valdivia Hennig — <nieblagames.itch.io/hawk-and-puma> *(sovereignty, Andean soundscape)*
+- Any **Bitsy Essay Jam** entry — <itch.io/jam/the-bitsy-essay-jam/entries>
+
+## While you play, notice
+
+- How does the creator use the **pixel grid**?
+- What's **impossible** to show here — and how do they work around it?
+- Does the narrative live in the **image**, the **walking**, or the **text**?
+- Could this be a written essay instead? What would vanish?
+
+## Discuss — class
+
+*15 min*
+
+1. Did the constraints (8×8, two colors, no audio) feel **restrictive** — or did you stop noticing them?
+2. What can Bitsy do that prose **can't**?
+3. Whose game moved you most, and which of the three channels — visual / movement / text — did it?
+
+## Transition {.center}
+
+You've walked through someone else's small world.
+
+. . .
+
+Now build one that's yours — and feel every pixel as a decision.
+
+## Bitsy vocabulary {.smaller}
+
+| Element | What it is |
+|---|---|
+| **Avatar** | the character you move (8×8 pixels) |
+| **Room** | one screen you navigate |
+| **Tile** | repeated scenery; can be a wall |
+| **Sprite** | a character/object you talk to by bumping it |
+| **Item** | a thing you can collect |
+| **Exit** | a tile that sends you to another room |
+| **Ending** | a tile that ends the game with a message |
+
+## The workflow
+
+1. Draw your **avatar**
+2. Build the **first room** — tiles + background colors
+3. Add a **sprite** with a line of dialogue
+4. Add an **exit** to a second room
+5. Repeat for more rooms
+6. Drop an **ending** in the final room
+
+. . .
+
+The **?** icon in the editor explains every panel.
+
+## Design principle — contrast carries the story
+
+A Bitsy journey is really **room A vs room B**.
+
+. . .
+
+The player feels the *difference*: crowded → empty, bright → dark, loud text → silence.
+
+. . .
+
+Decide what changes between rooms. That change is your point.
+
+## Build — a 2-room journey {background-color="#ffb81c"}
+
+*Individual · 25 min · <bitsy.org>*
+
+Express **one feeling, memory, or question**.
+
+- [ ] custom-drawn avatar
+- [ ] 2 rooms that are **meaningfully** different
+- [ ] 1 sprite with dialogue
+- [ ] an exit connecting them
+
+**Try a contrast:** crowded / empty · the same place at two times · a question that gets redirected.
+
+## Playtest swap
+
+*Pairs · 10 min*
+
+Trade. Play your partner's journey to the end.
+
+Tell them:
+
+- The moment the **space** made you feel something
+- One thing you wanted to do and couldn't
+
+## Debrief — groups → class
+
+- What was your most **meaningful** choice — not your most technical one?
+- How did the constraints **push** your idea somewhere you didn't plan?
+- What couldn't you express? Did you find a workaround?
+
+## Closing question {.center}
+
+> What makes a world feel complete even when it's tiny —
+
+> is it how much is in it,
+
+> or how intentional each element is?
+
+## Synthesis — Week 6 {.smaller}
+
+|  | p5.js | Bitsy |
+|---|---|---|
+| You control | every pixel, every frame | a grid, two colors, some text |
+| The medium is | the rule + randomness | the constraint + contrast |
+| Both need | a concept you can say in one sentence |  |
+
+. . .
+
+Creative code isn't about the tool being powerful. It's about the idea surviving the limits.
+
+## Assignment
+
+Pick **one**, due end of Week 6:
+
+**Option A — p5.js sketch:** one-sentence concept · 3+ functions beyond the template · runs clean · link in `links.md`
+
+**Option B — Bitsy game:** 3+ connected rooms · 2+ sprites with dialogue · title + ending · exported `.html`
+
+. . .
+
+Plus **`reflection.md`** (~300 words).
+
+## Reflection prompt
+
+*Write ~300 words:*
+
+> How does working within the constraints of p5.js or Bitsy change what you make? What would be impossible to express in this tool — and does that limitation matter?
+
+Touch on: what the tool made easy · what it refused · whether the limits felt freeing or frustrating.
+
+## Bridge to Week 7
+
+So far, **you** wrote every rule by hand.
+
+. . .
+
+Next week: the machine writes its own rules — by looking at data **you** choose.
+
+. . .
+
+Your training data becomes your argument.
+
+# Thank you {background-color="#003da5"}
+
+**Jing Han** · Digital Scholarship Librarian · UCR eScholarship Liaison
+
+<jingh@ucr.edu>
