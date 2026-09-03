@@ -1,0 +1,16 @@
+---
+title: "Week 6: Creative Code & Games — Slides"
+format:
+  html:
+    theme: cosmo
+    page-layout: article
+---
+
+Presentation decks for both class sessions. Open in a browser; use arrow keys, `S` for speaker view, `F` for fullscreen.
+
+- [Session 1 — Generative Visuals with p5.js](session-1-p5js.html)
+- [Session 2 — Space as Narrative with Bitsy](session-2-bitsy.html)
+
+---
+
+Source: [`slides/`](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-06-creative-code/tree/main/slides) · rendered with [Quarto](https://quarto.org).
