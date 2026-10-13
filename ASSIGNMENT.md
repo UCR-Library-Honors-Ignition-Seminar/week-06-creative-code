@@ -85,9 +85,9 @@ Then paste your GitHub repo URL into the Canvas assignment and submit.
 
 | Criterion | Points |
 |-----------|--------|
-| Project meets minimum requirements | 2 |
+| Project meets minimum requirements | 3 |
 | Project demonstrates a clear concept — not just the starter example | 1 |
-| Project is accessible (link works or HTML opens without errors) | 0.5 |
+| Project is accessible (link works or HTML opens without errors) | 1 |
 | Reflection: all 4 sections, ~300 words | 1 |
-| Reflection engages specifically with how constraints shaped your decisions | 0.5 |
+| Reflection engages specifically with how constraints shaped your decisions | 1 |
 | **Total** | **5** |
